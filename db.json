@@ -1,6 +1,7 @@
 {
 "plants": [
   {
+    "id": 1,
     "name": "Spider Plant",
     "latin_name": "Chlorophytum comosum",
     "description": "Spider Plant, scientifically known as Chlorophytum comosum, is a popular indoor plant prized for its air-purifying qualities and ease of care. Native to tropical and southern Africa, this plant is a member of the Asparagaceae family and is valued for its arching foliage and cascading growth habit. Its long, slender leaves feature creamy white or green stripes, adding a touch of elegance to any indoor space.",
@@ -9,6 +10,7 @@
     "origin": "Tropical and southern Africa"
   },
   {
+    "id": 2,
     "name": "Snake Plant",
     "latin_name": "Sansevieria trifasciata",
     "description": "Snake Plant, scientifically known as Sansevieria trifasciata, is a hardy indoor plant prized for its architectural foliage and air-purifying qualities. Native to tropical West Africa, this plant is a member of the Asparagaceae family and is valued for its upright growth habit and striking variegated leaves. Its sword-shaped leaves feature bold yellow or white margins, adding a touch of sophistication to any indoor space.",
@@ -17,6 +19,7 @@
     "origin": "Tropical West Africa"
   },
   {
+    "id": 3,
     "name": "Peace Lily",
     "latin_name": "Spathiphyllum spp.",
     "description": "Peace Lily is a genus of flowering plants prized for their elegant white flowers and lush foliage. Native to tropical regions of the Americas and Southeast Asia, Peace Lilies are members of the Araceae family and are valued for their ornamental value and air-purifying qualities. Their glossy, dark green leaves provide a striking backdrop for the spathes of white flowers, creating a serene and peaceful atmosphere in any indoor space.",
@@ -25,6 +28,7 @@
     "origin": "Tropical regions of the Americas and Southeast Asia"
   },
   {
+    "id": 4,
     "name": "Aloe Vera",
     "latin_name": "Aloe vera",
     "description": "Aloe Vera is a succulent plant prized for its medicinal properties and distinctive appearance. Native to the Arabian Peninsula, this plant is a member of the Asphodelaceae family and is valued for its ornamental value and healing properties. Its fleshy, gray-green leaves contain a clear gel that is commonly used to treat burns, wounds, and skin conditions. Aloe Vera plants also produce tall spikes of tubular yellow or orange flowers, adding a touch of color to any indoor space.",
@@ -33,6 +37,7 @@
     "origin": "Arabian Peninsula"
   },
   {
+    "id": 5,
     "name": "Fiddle Leaf Fig",
     "latin_name": "Ficus lyrata",
     "description": "Fiddle Leaf Fig, scientifically known as Ficus lyrata, is a popular indoor tree prized for its large, fiddle-shaped leaves and sculptural appearance. Native to tropical regions of West Africa, this plant is a member of the Moraceae family and is valued for its ornamental value and air-purifying qualities. Its broad, glossy leaves provide a dramatic focal point in any indoor space, making it a favorite choice for interior designers and plant enthusiasts alike.",
@@ -41,6 +46,7 @@
     "origin": "Tropical regions of West Africa"
   },
   {
+    "id": 6,
     "name": "Monstera Deliciosa",
     "latin_name": "Monstera deliciosa",
     "description": "Monstera Deliciosa, commonly known as Swiss Cheese Plant, is a tropical vine prized for its large, fenestrated leaves and exotic appearance. Native to tropical rainforests of Central and South America, this plant is a member of the Araceae family and is valued for its ornamental value and air-purifying qualities. Its broad, glossy leaves feature distinctive oval or oblong holes, resembling Swiss cheese, adding a touch of tropical elegance to any indoor space.",
@@ -49,6 +55,7 @@
     "origin": "Tropical rainforests of Central and South America"
   },
   {
+    "id": 7,
     "name": "Pothos",
     "latin_name": "Epipremnum aureum",
     "description": "Pothos, scientifically known as Epipremnum aureum, is a versatile and low-maintenance indoor plant prized for its trailing vines and heart-shaped leaves. Native to the Solomon Islands in the South Pacific, this plant is a member of the Araceae family and is valued for its ornamental value and air-purifying qualities. Its glossy, green leaves come in a variety of patterns, including solid green, variegated, and marbled, adding a touch of lushness to any room.",
@@ -57,6 +64,7 @@
     "origin": "Solomon Islands, South Pacific"
   },
   {
+    "id": 8,
     "name": "Philodendron",
     "latin_name": "Philodendron spp.",
     "description": "Philodendron, belonging to the Philodendron genus, is a diverse group of tropical plants prized for their attractive foliage and ease of care. Native to the rainforests of Central and South America, Philodendrons are characterized by their glossy, heart-shaped leaves and climbing or trailing growth habits. They are members of the Araceae family and are valued for their ornamental value and air-purifying qualities. Philodendrons come in a variety of species and cultivars, ranging from vining types suitable for hanging baskets to upright varieties perfect for floor pots, making them versatile choices for indoor decoration.",
@@ -65,6 +73,7 @@
     "origin": "Rainforests of Central and South America"
   },
   {
+    "id": 9,
     "name": "ZZ Plant",
     "latin_name": "Zamioculcas zamiifolia",
     "description": "ZZ Plant, scientifically known as Zamioculcas zamiifolia, is a popular indoor plant prized for its glossy, dark green foliage and low-maintenance nature. Native to Eastern Africa, particularly Zanzibar, this plant is a member of the Araceae family and is valued for its ornamental value and air-purifying qualities. Its thick, succulent leaves and upright growth habit make it an excellent choice for offices, homes, and other indoor environments, adding a touch of modern elegance to any setting.",
@@ -73,6 +82,7 @@
     "origin": "Eastern Africa, particularly Zanzibar"
   },
   {
+    "id": 10,
     "name": "Rubber Plant",
     "latin_name": "Ficus elastica",
     "description": "Rubber Plant, scientifically known as Ficus elastica, is a popular indoor tree prized for its large, glossy leaves and striking appearance. Native to tropical regions of Southeast Asia, particularly India and Indonesia, this plant is a member of the Moraceae family and is valued for its ornamental value and air-purifying qualities. Its broad, elliptical leaves come in a variety of colors, including dark green, burgundy, and variegated, adding a touch of lushness to any indoor space.",
@@ -81,6 +91,7 @@
     "origin": "Tropical regions of Southeast Asia, particularly India and Indonesia"
   },
   {
+    "id": 11,
     "name": "Boston Fern",
     "latin_name": "Nephrolepis exaltata",
     "description": "Boston Fern, scientifically known as Nephrolepis exaltata, is a popular indoor fern prized for its lush, feathery fronds and graceful appearance. Native to tropical regions of the Americas, this fern is a member of the Lomariopsidaceae family and is valued for its ornamental value and ease of care. Its arching fronds and cascading growth habit make it an excellent choice for hanging baskets or as a tabletop accent, adding a touch of greenery to any indoor space.",
@@ -89,6 +100,7 @@
     "origin": "Tropical regions of the Americas"
   },
   {
+    "id": 12,
     "name": "Cactus",
     "latin_name": "Various genera and species (e.g., Opuntia, Echinocactus, Mammillaria)",
     "description": "Cacti are a diverse group of succulent plants characterized by their fleshy stems, spines, and often vibrant flowers. Native to arid regions of the Americas, Africa, and Asia, cacti have adapted to survive in harsh desert environments by storing water in their stems and reducing water loss through specialized structures called stomata. There are thousands of species and cultivars of cacti, ranging from small, globular forms to towering columnar specimens, each with its unique appearance and growth habit. Cacti are popular choices for indoor decoration, container gardening, and drought-tolerant landscapes, adding a touch of desert beauty to any setting.",
@@ -97,6 +109,7 @@
     "origin": "Americas, Africa, Asia"
   },
   {
+    "id": 13,
     "name": "Pilea Moon Valley",
     "latin_name": "Pilea involucrata",
     "description": "Pilea Moon Valley, scientifically known as Pilea involucrata, is a unique indoor plant prized for its trailing stems and colorful foliage. Native to Central and South America, this plant is a member of the Urticaceae family and is valued for its ornamental value and ease of care. Its cascading growth habit and compact size make it an excellent choice for hanging baskets or as a tabletop accent, adding a touch of whimsy to any indoor space.",
@@ -105,6 +118,7 @@
     "origin": "Central and South America"
   },
   {
+    "id": 14,
     "name": "Areca Palm",
     "latin_name": "Dypsis lutescens",
     "description": "Areca Palm, scientifically known as Dypsis lutescens, is a graceful indoor palm prized for its feathery fronds and tropical appearance. Native to Madagascar, this palm is a member of the Arecaceae family and is valued for its ornamental value and air-purifying qualities. Its arching fronds and slender stems create a soft, elegant appearance, making it an excellent choice for homes, offices, and other indoor environments.",
@@ -113,6 +127,7 @@
     "origin": "Madagascar"
   },
   {
+    "id": 15,
     "name": "String of Pearls",
     "latin_name": "Senecio rowleyanus",
     "description": "String of Pearls, scientifically known as Senecio rowleyanus, is a unique and captivating succulent prized for its trailing stems and spherical, bead-like leaves. Native to South Africa, this plant is a member of the Asteraceae family and is valued for its ornamental value and ease of care. Its cascading growth habit and unusual appearance make it an excellent choice for hanging baskets or as a tabletop accent, adding a touch of whimsy to any indoor space.",
@@ -121,6 +136,7 @@
     "origin": "South Africa"
   },
   {
+    "id": 16,
     "name": "Lucky Bamboo",
     "latin_name": "Dracaena sanderiana",
     "description": "Lucky Bamboo, scientifically known as Dracaena sanderiana, is a popular indoor plant prized for its striking appearance and symbolic significance. Despite its name, Lucky Bamboo is not a bamboo but rather a member of the Dracaena genus and is native to tropical rainforests of Central Africa. This plant is valued for its ornamental value and ease of care, with its slender stems and glossy green leaves adding a touch of zen to any indoor space. In Chinese culture, Lucky Bamboo is believed to bring luck, prosperity, and positive energy to its surroundings.",
@@ -129,6 +145,7 @@
     "origin": "Central Africa"
   },
   {
+    "id": 17,
     "name": "Swiss Cheese Plant",
     "latin_name": "Monstera adansonii",
     "description": "Swiss Cheese Plant, scientifically known as Monstera adansonii, is a tropical vine prized for its distinctive fenestrated leaves and cascading growth habit. Native to Central and South America, this plant is a member of the Araceae family and is valued for its ornamental value and air-purifying qualities. Its trailing stems and perforated leaves make it an excellent choice for hanging baskets or as a tabletop accent, adding a touch of tropical elegance to any indoor space.",
@@ -137,6 +154,7 @@
     "origin": "Central and South America"
   },
   {
+    "id": 18,
     "name": "Chinese Evergreen",
     "latin_name": "Aglaonema spp.",
     "description": "Chinese Evergreen is a genus of tropical foliage plants prized for their attractive leaves and low-maintenance nature. Native to tropical regions of Asia, Chinese Evergreens are members of the Araceae family and are valued for their ornamental value and air-purifying qualities. Their lush foliage comes in a variety of colors, patterns, and textures, ranging from deep green to silver and variegated. Chinese Evergreens are popular choices for indoor decoration, adding a touch of greenery to any setting.",
@@ -145,6 +163,7 @@
     "origin": "Tropical regions of Asia"
   },
   {
+    "id": 19,
     "name": "African Mask Plant",
     "latin_name": "Alocasia amazonica",
     "description": "African Mask Plant, scientifically known as Alocasia amazonica, is a striking tropical plant prized for its dramatic foliage and bold appearance. Native to Southeast Asia, this plant is a member of the Araceae family and is valued for its ornamental value and air-purifying qualities. Its large, arrow-shaped leaves feature dark green veins and bold white or silver markings, resembling the patterns found on traditional African masks. African Mask Plants are popular choices for indoor decoration, adding a touch of exotic elegance to any setting.",
@@ -153,6 +172,7 @@
     "origin": "Southeast Asia"
   },
   {
+    "id": 20,
     "name": "String of Bananas",
     "latin_name": "Senecio radicans",
     "description": "String of Bananas, scientifically known as Senecio radicans, is a charming and unique succulent prized for its trailing stems and banana-shaped leaves. Native to South Africa, this plant is a member of the Asteraceae family and is valued for its ornamental value and ease of care. Its cascading growth habit and unusual appearance make it an excellent choice for hanging baskets or as a tabletop accent, adding a touch of whimsy to any indoor space.",
@@ -161,6 +181,7 @@
     "origin": "South Africa"
   },
   {
+    "id": 21,
     "name": "Hoya Heart",
     "latin_name": "Hoya kerrii",
     "description": "Hoya Heart, scientifically known as Hoya kerrii, is a charming and unique succulent prized for its heart-shaped leaves and easy-care nature. Native to Southeast Asia, this plant is a member of the Apocynaceae family and is valued for its ornamental value and sentimental significance. Its heart-shaped leaves and trailing growth habit make it an excellent choice for hanging baskets or as a tabletop accent, adding a touch of romance to any indoor space.",
@@ -169,6 +190,7 @@
     "origin": "Southeast Asia"
   },
   {
+    "id": 22,
     "name": "Rattlesnake Plant",
     "latin_name": "Calathea lancifolia",
     "description": "Rattlesnake Plant, scientifically known as Calathea lancifolia, is a tropical plant prized for its striking foliage and unique patterns. Native to Central and South America, Rattlesnake Plants are members of the Marantaceae family and are valued for their ornamental value and air-purifying qualities. Their elongated, lance-shaped leaves feature bold green stripes and wavy edges, resembling the markings of a rattlesnake. Rattlesnake Plants are popular choices for indoor decoration, adding a touch of exotic elegance to any setting.",
@@ -177,6 +199,7 @@
     "origin": "Central and South America"
   },
   {
+    "id": 23,
     "name": "Orchid",
     "latin_name": "Orchidaceae family (Various genera and species)",
     "description": "Orchids are a diverse group of flowering plants prized for their elegant flowers and exotic appearance. With over 25,000 species and countless hybrids, orchids are found in almost every habitat on Earth, from tropical rainforests to arctic tundras. Orchids are members of the Orchidaceae family and are valued for their ornamental value and cultural significance. Their intricate flowers come in a wide range of colors, shapes, and sizes, and are often fragrant and long-lasting. Orchids are popular choices for indoor decoration, adding a touch of beauty and sophistication to any setting.",
@@ -185,6 +208,7 @@
     "origin": "Worldwide, with a majority found in tropical regions"
   },
   {
+    "id": 24,
     "name": "Ponytail Palm",
     "latin_name": "Beaucarnea recurvata",
     "description": "Ponytail Palm, scientifically known as Beaucarnea recurvata, is a distinctive indoor plant prized for its swollen trunk and cascading, ribbon-like leaves. Despite its name, Ponytail Palm is not a true palm but rather a member of the Asparagaceae family and is native to Mexico. This plant is valued for its ornamental value and ease of care, with its unique appearance adding a touch of exotic elegance to any indoor space. Its swollen trunk stores water, allowing it to survive periods of drought, making it an excellent choice for forgetful gardeners.",
@@ -193,6 +217,7 @@
     "origin": "Mexico"
   },
   {
+    "id": 25,
     "name": "Oxalis",
     "latin_name": "Oxalis spp.",
     "description": "Oxalis, also known as Shamrock Plant or Wood Sorrel, is a genus of plants prized for their clover-like leaves and delicate flowers. Native to various regions worldwide, including Europe, Africa, and the Americas, Oxalis plants are members of the Oxalidaceae family and are valued for their ornamental value and culinary uses. Their distinctive leaves come in a variety of colors, ranging from green to purple, and may have contrasting markings or variegation. Oxalis plants are popular choices for indoor decoration, adding a touch of charm and whimsy to any setting.",
@@ -201,6 +226,7 @@
     "origin": "Various regions worldwide, including Europe, Africa, and the Americas"
   },
   {
+    "id": 26,
     "name": "Poinsettia",
     "latin_name": "Euphorbia pulcherrima",
     "description": "Poinsettia, scientifically known as Euphorbia pulcherrima, is a popular indoor plant prized for its colorful bracts and festive appearance. Native to Mexico and Central America, Poinsettias are members of the Euphorbiaceae family and are valued for their ornamental value and cultural significance. Their bright red, pink, or white bracts surround small yellow flowers, creating a striking display that is synonymous with the holiday season. Poinsettias are popular choices for indoor decoration, adding a touch of festive cheer to any setting.",
@@ -209,6 +235,7 @@
     "origin": "Mexico, Central America"
   },
   {
+    "id": 27,
     "name": "Bromeliad",
     "latin_name": "Bromeliaceae family (Various genera and species)",
     "description": "Bromeliads are a diverse family of tropical plants prized for their colorful foliage and unique growth habits. With over 3,000 species and countless hybrids, bromeliads are found in a wide range of habitats, from rainforests to deserts. Bromeliads are members of the Bromeliaceae family and are valued for their ornamental value and ease of care. Their striking leaves come in a variety of shapes, sizes, and colors, often adorned with bold stripes, spots, or patterns. Bromeliads are popular choices for indoor decoration, adding a touch of exotic beauty to any setting.",
