@@ -6,6 +6,7 @@
       "latin_name": "Chlorophytum comosum",
       "description": "Spider Plant, scientifically known as Chlorophytum comosum, is a popular indoor plant prized for its air-purifying qualities and ease of care. Native to tropical and southern Africa, this plant is a member of the Asparagaceae family and is valued for its arching foliage and cascading growth habit. Its long, slender leaves feature creamy white or green stripes, adding a touch of elegance to any indoor space.",
       "care_detail": "Spider Plants prefer bright, indirect light and well-draining soil. Water regularly, keeping the soil evenly moist but not waterlogged. Remove any brown or yellowing leaves and propagate new plants by repotting the plantlets that form on long stems, known as runners.",
+      "ease_of_care": "Easy",
       "outdoor_or_indoor": "Indoor",
       "origin": "Tropical and southern Africa",
       "image": "https://www.bhg.com/thmb/oDnjlrHprd67aYvinrMfQgVUPtQ=/5332x0/filters:no_upscale():strip_icc()/BHG-spider-plant-c0e0fdd5ec6e4c1588998ce3167f6579.jpg"
@@ -16,6 +17,7 @@
       "latin_name": "Sansevieria trifasciata",
       "description": "Snake Plant, scientifically known as Sansevieria trifasciata, is a hardy indoor plant prized for its architectural foliage and air-purifying qualities. Native to tropical West Africa, this plant is a member of the Asparagaceae family and is valued for its upright growth habit and striking variegated leaves. Its sword-shaped leaves feature bold yellow or white margins, adding a touch of sophistication to any indoor space.",
       "care_detail": "Snake Plants thrive in low to bright indirect light and well-draining soil. Water sparingly, allowing the soil to dry out between waterings. Trim back any dead or yellowing leaves and propagate new plants by dividing the rhizomes.",
+      "ease_of_care": "Difficult",
       "outdoor_or_indoor": "Indoor",
       "origin": "Tropical West Africa",
       "image": "https://www.thespruce.com/thmb/SsHaPRyZppWJ-ZHmbKhl_vdBWBo=/2048x0/filters:no_upscale():max_bytes(150000):strip_icc()/snake-plant-care-overview-1902772-04-d3990a1d0e1d4202a824e929abb12fc1-349b52d646f04f31962707a703b94298.jpeg"
@@ -26,6 +28,7 @@
       "latin_name": "Spathiphyllum spp.",
       "description": "Peace Lily is a genus of flowering plants prized for their elegant white flowers and lush foliage. Native to tropical regions of the Americas and Southeast Asia, Peace Lilies are members of the Araceae family and are valued for their ornamental value and air-purifying qualities. Their glossy, dark green leaves provide a striking backdrop for the spathes of white flowers, creating a serene and peaceful atmosphere in any indoor space.",
       "care_detail": "Peace Lilies prefer bright, indirect light and consistently moist soil. Water regularly, keeping the soil evenly moist but not waterlogged. Mist the leaves regularly to increase humidity and prevent them from drying out.",
+      "ease_of_care": "Easy",
       "outdoor_or_indoor": "Indoor",
       "origin": "Tropical regions of the Americas and Southeast Asia",
       "image": "https://www.mydomaine.com/thmb/N3StDx3PyGbF0Pwafv-P9-qiNZU=/900x0/filters:no_upscale():strip_icc()/1566417254329_20190821-1566417255317-b9314f1d9f7a4668a466c5ffb1913a8f.jpg"
@@ -36,19 +39,10 @@
       "latin_name": "Aloe vera",
       "description": "Aloe Vera is a succulent plant prized for its medicinal properties and distinctive appearance. Native to the Arabian Peninsula, this plant is a member of the Asphodelaceae family and is valued for its ornamental value and healing properties. Its fleshy, gray-green leaves contain a clear gel that is commonly used to treat burns, wounds, and skin conditions. Aloe Vera plants also produce tall spikes of tubular yellow or orange flowers, adding a touch of color to any indoor space.",
       "care_detail": "Aloe Vera prefers bright, indirect light and well-draining soil. Water sparingly, allowing the soil to dry out between waterings. Avoid overwatering, as it can lead to root rot. Harvest leaves as needed for medicinal use, cutting them close to the base of the plant.",
-      "outdoor_or_indoor": "Indoor",
+      "ease_of_care": "Medium",
+      "outdoor_or_indoor": "Outdoor",
       "origin": "Arabian Peninsula",
       "image": "https://www.plantje.nl/wp-content/uploads/2021/09/Aloe%CC%88-Vera-p12-1.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Fiddle Leaf Fig",
-      "latin_name": "Ficus lyrata",
-      "description": "Fiddle Leaf Fig, scientifically known as Ficus lyrata, is a popular indoor tree prized for its large, fiddle-shaped leaves and sculptural appearance. Native to tropical regions of West Africa, this plant is a member of the Moraceae family and is valued for its ornamental value and air-purifying qualities. Its broad, glossy leaves provide a dramatic focal point in any indoor space, making it a favorite choice for interior designers and plant enthusiasts alike.",
-      "care_detail": "Fiddle Leaf Figs require bright, indirect light and well-draining soil. Water moderately, allowing the soil to dry out slightly between waterings. Mist the leaves regularly to increase humidity and prevent them from drying out. Rotate the plant regularly to ensure even growth.",
-      "outdoor_or_indoor": "Indoor",
-      "origin": "Tropical regions of West Africa",
-      "image": "https://www.fleur.nl/media/catalog/product/cache/1bdaada4d7caeef0c7b86000b1f0e2db/f/i/ficus-vertakt-goldc9c569_1_13.jpg"
     },
     {
       "id": 6,
@@ -56,6 +50,7 @@
       "latin_name": "Monstera deliciosa",
       "description": "Monstera Deliciosa, commonly known as Swiss Cheese Plant, is a tropical vine prized for its large, fenestrated leaves and exotic appearance. Native to tropical rainforests of Central and South America, this plant is a member of the Araceae family and is valued for its ornamental value and air-purifying qualities. Its broad, glossy leaves feature distinctive oval or oblong holes, resembling Swiss cheese, adding a touch of tropical elegance to any indoor space.",
       "care_detail": "Monstera Deliciosa requires bright, indirect light and well-draining soil. Water moderately, allowing the soil to dry out slightly between waterings. Provide support for the vines as they grow and prune back any leggy or overgrown stems regularly.",
+      "ease_of_care": "Medium",
       "outdoor_or_indoor": "Indoor",
       "origin": "Tropical rainforests of Central and South America",
       "image": "https://media.s-bol.com/g8R0NpLq97WG/16G5NKo/944x1200.jpg"
@@ -66,7 +61,8 @@
       "latin_name": "Epipremnum aureum",
       "description": "Pothos, scientifically known as Epipremnum aureum, is a versatile and low-maintenance indoor plant prized for its trailing vines and heart-shaped leaves. Native to the Solomon Islands in the South Pacific, this plant is a member of the Araceae family and is valued for its ornamental value and air-purifying qualities. Its glossy, green leaves come in a variety of patterns, including solid green, variegated, and marbled, adding a touch of lushness to any room.",
       "care_detail": "Pothos thrives in low to bright indirect light and well-draining soil. Water moderately, allowing the soil to dry out between waterings. Trim back leggy growth regularly to promote bushy growth and maintain its shape.",
-      "outdoor_or_indoor": "Indoor",
+      "ease_of_care": "Medium",
+      "outdoor_or_indoor": "Outdoor",
       "origin": "Solomon Islands, South Pacific",
       "image": "https://bloomen.ca/cdn/shop/files/PothosPlantv3_530x@2x.png?v=1699881531"
     },
@@ -76,6 +72,7 @@
       "latin_name": "Philodendron spp.",
       "description": "Philodendron, belonging to the Philodendron genus, is a diverse group of tropical plants prized for their attractive foliage and ease of care. Native to the rainforests of Central and South America, Philodendrons are characterized by their glossy, heart-shaped leaves and climbing or trailing growth habits. They are members of the Araceae family and are valued for their ornamental value and air-purifying qualities. Philodendrons come in a variety of species and cultivars, ranging from vining types suitable for hanging baskets to upright varieties perfect for floor pots, making them versatile choices for indoor decoration.",
       "care_detail": "Philodendrons require bright, indirect light and well-draining soil. Water moderately, allowing the soil to dry out slightly between waterings. Provide support for climbing varieties and trim back leggy growth regularly to promote bushy growth and maintain its shape.",
+      "ease_of_care": "Medium",
       "outdoor_or_indoor": "Indoor",
       "origin": "Rainforests of Central and South America",
       "image": "https://www.ikea.com/nl/en/images/products/philodendron-white-wave-potted-plant__1073380_pe855697_s5.jpg"
@@ -86,6 +83,7 @@
       "latin_name": "Zamioculcas zamiifolia",
       "description": "ZZ Plant, scientifically known as Zamioculcas zamiifolia, is a popular indoor plant prized for its glossy, dark green foliage and low-maintenance nature. Native to Eastern Africa, particularly Zanzibar, this plant is a member of the Araceae family and is valued for its ornamental value and air-purifying qualities. Its thick, succulent leaves and upright growth habit make it an excellent choice for offices, homes, and other indoor environments, adding a touch of modern elegance to any setting.",
       "care_detail": "ZZ Plants thrive in low to bright indirect light and well-draining soil. Water sparingly, allowing the soil to dry out between waterings. Trim back any yellowing or dead leaves and propagate new plants by dividing the rhizomes.",
+      "ease_of_care": "Medium",
       "outdoor_or_indoor": "Indoor",
       "origin": "Eastern Africa, particularly Zanzibar",
       "image": "https://geluksplantje.nl/cdn/shop/products/60cmZZPlant-whitecementpot_1296x_eb93ea34-0d99-469f-a3d1-41c6455911a3.webp?v=1671136535"
@@ -96,6 +94,7 @@
       "latin_name": "Ficus elastica",
       "description": "Rubber Plant, scientifically known as Ficus elastica, is a popular indoor tree prized for its large, glossy leaves and striking appearance. Native to tropical regions of Southeast Asia, particularly India and Indonesia, this plant is a member of the Moraceae family and is valued for its ornamental value and air-purifying qualities. Its broad, elliptical leaves come in a variety of colors, including dark green, burgundy, and variegated, adding a touch of lushness to any indoor space.",
       "care_detail": "Rubber Plants require bright, indirect light and well-draining soil. Water moderately, allowing the soil to dry out slightly between waterings. Mist the leaves regularly to increase humidity and prevent them from drying out. Prune back any leggy growth to maintain its shape.",
+      "ease_of_care": "Medium",
       "outdoor_or_indoor": "Indoor",
       "origin": "Tropical regions of Southeast Asia, particularly India and Indonesia",
       "image": "https://www.artplants.eu/media/catalog/product/cache/b940d19a38559eb8d9b0e195e9107a20/7/3/73829-nr-1.jpg"
@@ -106,6 +105,7 @@
       "latin_name": "Nephrolepis exaltata",
       "description": "Boston Fern, scientifically known as Nephrolepis exaltata, is a popular indoor fern prized for its lush, feathery fronds and graceful appearance. Native to tropical regions of the Americas, this fern is a member of the Lomariopsidaceae family and is valued for its ornamental value and ease of care. Its arching fronds and cascading growth habit make it an excellent choice for hanging baskets or as a tabletop accent, adding a touch of greenery to any indoor space.",
       "care_detail": "Boston Ferns require bright, indirect light and consistently moist soil. Water regularly to keep the soil evenly moist but not waterlogged. Mist the fronds regularly to increase humidity and prevent them from drying out.",
+      "ease_of_care": "Medium",
       "outdoor_or_indoor": "Indoor",
       "origin": "Tropical regions of the Americas",
       "image": "https://geluksplantje.nl/cdn/shop/products/40cmBostonFern-squaregreycement_1296x_710da844-4b43-44e9-bdf2-99e396629ec6.webp?v=1672776025"
@@ -116,6 +116,7 @@
       "latin_name": "Various genera and species (e.g., Opuntia, Echinocactus, Mammillaria)",
       "description": "Cacti are a diverse group of succulent plants characterized by their fleshy stems, spines, and often vibrant flowers. Native to arid regions of the Americas, Africa, and Asia, cacti have adapted to survive in harsh desert environments by storing water in their stems and reducing water loss through specialized structures called stomata. There are thousands of species and cultivars of cacti, ranging from small, globular forms to towering columnar specimens, each with its unique appearance and growth habit. Cacti are popular choices for indoor decoration, container gardening, and drought-tolerant landscapes, adding a touch of desert beauty to any setting.",
       "care_detail": "Cacti require well-draining soil, bright light, and infrequent watering to thrive. Allow the soil to dry out completely between waterings, as overwatering can lead to root rot. Provide regular fertilization during the growing season to promote healthy growth and flowering.",
+      "ease_of_care": "Medium",
       "outdoor_or_indoor": "Outdoor/Indoor",
       "origin": "Americas, Africa, Asia",
       "image": "https://www.jacksonandperkins.com/images/xxl/29377.webp?v=0-1"
@@ -126,6 +127,7 @@
       "latin_name": "Pilea involucrata",
       "description": "Pilea Moon Valley, scientifically known as Pilea involucrata, is a unique indoor plant prized for its trailing stems and colorful foliage. Native to Central and South America, this plant is a member of the Urticaceae family and is valued for its ornamental value and ease of care. Its cascading growth habit and compact size make it an excellent choice for hanging baskets or as a tabletop accent, adding a touch of whimsy to any indoor space.",
       "care_detail": "Pilea Moon Valley requires bright, indirect light and well-draining soil. Water sparingly, allowing the soil to dry out between waterings. Pinch back the stems regularly to promote bushy growth and maintain its shape.",
+      "ease_of_care": "Medium",
       "outdoor_or_indoor": "Indoor",
       "origin": "Central and South America",
       "image": "https://www.plantje.nl/wp-content/uploads/2020/11/Pilea-Moonvalley-14-Plantje-1.jpg"
@@ -136,6 +138,7 @@
       "latin_name": "Dypsis lutescens",
       "description": "Areca Palm, scientifically known as Dypsis lutescens, is a graceful indoor palm prized for its feathery fronds and tropical appearance. Native to Madagascar, this palm is a member of the Arecaceae family and is valued for its ornamental value and air-purifying qualities. Its arching fronds and slender stems create a soft, elegant appearance, making it an excellent choice for homes, offices, and other indoor environments.",
       "care_detail": "Areca Palms require bright, indirect light and consistently moist soil. Water regularly during the growing season and reduce watering in the winter months. Provide regular fertilization during the growing season to promote healthy growth and maintain its vibrant green color.",
+      "ease_of_care": "Medium",
       "outdoor_or_indoor": "Indoor",
       "origin": "Madagascar",
       "image": "https://cdn.webshopapp.com/shops/29478/files/371830382/650x650x2/goudpalm-areca-xxl.jpg"
@@ -146,6 +149,7 @@
       "latin_name": "Senecio rowleyanus",
       "description": "String of Pearls, scientifically known as Senecio rowleyanus, is a unique and captivating succulent prized for its trailing stems and spherical, bead-like leaves. Native to South Africa, this plant is a member of the Asteraceae family and is valued for its ornamental value and ease of care. Its cascading growth habit and unusual appearance make it an excellent choice for hanging baskets or as a tabletop accent, adding a touch of whimsy to any indoor space.",
       "care_detail": "String of Pearls requires bright, indirect light and well-draining soil. Water sparingly, allowing the soil to dry out between waterings. Pinch back the stems regularly to promote bushy growth and maintain its shape.",
+      "ease_of_care": "Medium",
       "outdoor_or_indoor": "Indoor",
       "origin": "South Africa",
       "image": "https://cloudshillsucculents.co.uk/wp-content/uploads/2015/01/Senecio-rowlyeanus-35-copy-scaled.webp"
@@ -156,6 +160,7 @@
       "latin_name": "Dracaena sanderiana",
       "description": "Lucky Bamboo, scientifically known as Dracaena sanderiana, is a popular indoor plant prized for its striking appearance and symbolic significance. Despite its name, Lucky Bamboo is not a bamboo but rather a member of the Dracaena genus and is native to tropical rainforests of Central Africa. This plant is valued for its ornamental value and ease of care, with its slender stems and glossy green leaves adding a touch of zen to any indoor space. In Chinese culture, Lucky Bamboo is believed to bring luck, prosperity, and positive energy to its surroundings.",
       "care_detail": "Lucky Bamboo requires bright, indirect light and well-draining soil. Keep the roots submerged in water at all times, changing the water every two to four weeks to prevent stagnation and algae growth. Prune back any yellowing or dead stems regularly to maintain its appearance.",
+      "ease_of_care": "Medium",
       "outdoor_or_indoor": "Indoor",
       "origin": "Central Africa",
       "image": "https://rebelplants.co.uk/cdn/shop/products/lucky-bamboo-stems-dracaena-sanderiana-40-50cm-pots-planters-rebel-plants-134892.jpg?v=1657965461"
@@ -166,6 +171,7 @@
       "latin_name": "Monstera adansonii",
       "description": "Swiss Cheese Plant, scientifically known as Monstera adansonii, is a tropical vine prized for its distinctive fenestrated leaves and cascading growth habit. Native to Central and South America, this plant is a member of the Araceae family and is valued for its ornamental value and air-purifying qualities. Its trailing stems and perforated leaves make it an excellent choice for hanging baskets or as a tabletop accent, adding a touch of tropical elegance to any indoor space.",
       "care_detail": "Swiss Cheese Plants require bright, indirect light and well-draining soil. Water sparingly, allowing the soil to dry out between waterings. Provide support for the vines as they grow and prune back any leggy or overgrown stems regularly.",
+      "ease_of_care": "Difficult",
       "outdoor_or_indoor": "Indoor",
       "origin": "Central and South America",
       "image": "https://geluksplantje.nl/cdn/shop/products/30cmSwiss-Cheese-Plant-Indoor-plant-Plntd-white-cement-30cm_1512x_d070ef76-f0c2-4422-a0e1-dc781fce1a62.webp?v=1671137763"
@@ -176,6 +182,7 @@
       "latin_name": "Aglaonema spp.",
       "description": "Chinese Evergreen is a genus of tropical foliage plants prized for their attractive leaves and low-maintenance nature. Native to tropical regions of Asia, Chinese Evergreens are members of the Araceae family and are valued for their ornamental value and air-purifying qualities. Their lush foliage comes in a variety of colors, patterns, and textures, ranging from deep green to silver and variegated. Chinese Evergreens are popular choices for indoor decoration, adding a touch of greenery to any setting.",
       "care_detail": "Chinese Evergreens require bright, indirect light and consistently moist soil. Water sparingly, allowing the soil to dry out between waterings. Mist the leaves regularly to increase humidity and prevent them from drying out.",
+      "ease_of_care": "Difficult",
       "outdoor_or_indoor": "Indoor",
       "origin": "Tropical regions of Asia",
       "image": "https://floresmantilla.com/cdn/shop/products/Untitleddesign_35.png?v=1673458836"
@@ -186,6 +193,7 @@
       "latin_name": "Alocasia amazonica",
       "description": "African Mask Plant, scientifically known as Alocasia amazonica, is a striking tropical plant prized for its dramatic foliage and bold appearance. Native to Southeast Asia, this plant is a member of the Araceae family and is valued for its ornamental value and air-purifying qualities. Its large, arrow-shaped leaves feature dark green veins and bold white or silver markings, resembling the patterns found on traditional African masks. African Mask Plants are popular choices for indoor decoration, adding a touch of exotic elegance to any setting.",
       "care_detail": "African Mask Plants require bright, indirect light and consistently moist soil. Water regularly, keeping the soil evenly moist but not waterlogged. Mist the leaves regularly to increase humidity and prevent them from drying out.",
+      "ease_of_care": "Difficult",
       "outdoor_or_indoor": "Indoor",
       "origin": "Southeast Asia",
       "image": "https://i.guim.co.uk/img/media/b5039900b37f1d79dd40c49491480ac6df3054a1/1_0_3998_2400/master/3998.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=72353a4ae6ebe01a5be6894a99b7632b"
@@ -196,6 +204,7 @@
       "latin_name": "Senecio radicans",
       "description": "String of Bananas, scientifically known as Senecio radicans, is a charming and unique succulent prized for its trailing stems and banana-shaped leaves. Native to South Africa, this plant is a member of the Asteraceae family and is valued for its ornamental value and ease of care. Its cascading growth habit and unusual appearance make it an excellent choice for hanging baskets or as a tabletop accent, adding a touch of whimsy to any indoor space.",
       "care_detail": "String of Bananas requires bright, indirect light and well-draining soil. Water sparingly, allowing the soil to dry out between waterings. Pinch back the stems regularly to promote bushy growth and maintain its shape.",
+      "ease_of_care": "Difficult",
       "outdoor_or_indoor": "Indoor",
       "origin": "South Africa",
       "image": "https://chaletnursery.com/cdn/shop/files/sera6hb_1800x1800.jpg?v=1704237314"
@@ -206,6 +215,7 @@
       "latin_name": "Hoya kerrii",
       "description": "Hoya Heart, scientifically known as Hoya kerrii, is a charming and unique succulent prized for its heart-shaped leaves and easy-care nature. Native to Southeast Asia, this plant is a member of the Apocynaceae family and is valued for its ornamental value and sentimental significance. Its heart-shaped leaves and trailing growth habit make it an excellent choice for hanging baskets or as a tabletop accent, adding a touch of romance to any indoor space.",
       "care_detail": "Hoya Hearts require bright, indirect light and well-draining soil. Water sparingly, allowing the soil to dry out between waterings. Provide support for the vines as they grow and prune back any leggy or overgrown stems regularly.",
+      "ease_of_care": "Difficult",
       "outdoor_or_indoor": "Indoor",
       "origin": "Southeast Asia",
       "image": "https://i.etsystatic.com/10494852/r/il/783855/2029326287/il_fullxfull.2029326287_897x.jpg"
@@ -216,6 +226,7 @@
       "latin_name": "Calathea lancifolia",
       "description": "Rattlesnake Plant, scientifically known as Calathea lancifolia, is a tropical plant prized for its striking foliage and unique patterns. Native to Central and South America, Rattlesnake Plants are members of the Marantaceae family and are valued for their ornamental value and air-purifying qualities. Their elongated, lance-shaped leaves feature bold green stripes and wavy edges, resembling the markings of a rattlesnake. Rattlesnake Plants are popular choices for indoor decoration, adding a touch of exotic elegance to any setting.",
       "care_detail": "Rattlesnake Plants require bright, indirect light and consistently moist soil. Water regularly to keep the soil evenly moist but not waterlogged. Mist the leaves regularly to increase humidity and prevent them from drying out.",
+      "ease_of_care": "Difficult",
       "outdoor_or_indoor": "Indoor",
       "origin": "Central and South America",
       "image": "https://hortology.co.uk/cdn/shop/products/Calathea-lancifolia-Rattlesnake-Plant-75cm_1200x.jpg?v=1689581707"
@@ -226,7 +237,8 @@
       "latin_name": "Orchidaceae family (Various genera and species)",
       "description": "Orchids are a diverse group of flowering plants prized for their elegant flowers and exotic appearance. With over 25,000 species and countless hybrids, orchids are found in almost every habitat on Earth, from tropical rainforests to arctic tundras. Orchids are members of the Orchidaceae family and are valued for their ornamental value and cultural significance. Their intricate flowers come in a wide range of colors, shapes, and sizes, and are often fragrant and long-lasting. Orchids are popular choices for indoor decoration, adding a touch of beauty and sophistication to any setting.",
       "care_detail": "Orchids require bright, indirect light and well-draining soil or growing medium. Water sparingly, allowing the soil to dry out between waterings. Provide support for the flower spikes as they grow and fertilize regularly during the growing season to promote healthy growth and flowering.",
-      "outdoor_or_indoor": "Outdoor/Indoor (Depends on species and climate)",
+      "ease_of_care": "Difficult",
+      "outdoor_or_indoor": "Outdoor/Indoor",
       "origin": "Worldwide, with a majority found in tropical regions",
       "image": "https://cdn11.bigcommerce.com/s-3bp5t46z/images/stencil/1280x1280/products/545/2169/DSC_4003__32090.1625656671.jpg?c=2"
     },
@@ -236,6 +248,7 @@
       "latin_name": "Beaucarnea recurvata",
       "description": "Ponytail Palm, scientifically known as Beaucarnea recurvata, is a distinctive indoor plant prized for its swollen trunk and cascading, ribbon-like leaves. Despite its name, Ponytail Palm is not a true palm but rather a member of the Asparagaceae family and is native to Mexico. This plant is valued for its ornamental value and ease of care, with its unique appearance adding a touch of exotic elegance to any indoor space. Its swollen trunk stores water, allowing it to survive periods of drought, making it an excellent choice for forgetful gardeners.",
       "care_detail": "Ponytail Palms require bright, indirect light and well-draining soil. Water sparingly, allowing the soil to dry out between waterings. Provide support for the heavy top growth and rotate the plant regularly to ensure even growth.",
+      "ease_of_care": "Easy",
       "outdoor_or_indoor": "Indoor",
       "origin": "Mexico",
       "image": "https://cdn.mos.cms.futurecdn.net/fSWwsmdVHDgAycng9ZxodG-1200-80.jpg"
@@ -246,6 +259,7 @@
       "latin_name": "Oxalis spp.",
       "description": "Oxalis, also known as Shamrock Plant or Wood Sorrel, is a genus of plants prized for their clover-like leaves and delicate flowers. Native to various regions worldwide, including Europe, Africa, and the Americas, Oxalis plants are members of the Oxalidaceae family and are valued for their ornamental value and culinary uses. Their distinctive leaves come in a variety of colors, ranging from green to purple, and may have contrasting markings or variegation. Oxalis plants are popular choices for indoor decoration, adding a touch of charm and whimsy to any setting.",
       "care_detail": "Oxalis plants require bright, indirect light and well-draining soil. Water sparingly, allowing the soil to dry out between waterings. Provide regular fertilization during the growing season to promote healthy growth and flowering.",
+      "ease_of_care": "Easy",
       "outdoor_or_indoor": "Outdoor/Indoor",
       "origin": "Various regions worldwide, including Europe, Africa, and the Americas",
       "image": "https://plnts.com/_next/image?url=https%3A%2F%2Fwebshop.plnts.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Faa5d334f459227518b6c3cf7ea9d29ed%2Fp%2Fl%2Fpl.s.m.081-6.jpg&w=3840&q=80"
@@ -256,6 +270,7 @@
       "latin_name": "Euphorbia pulcherrima",
       "description": "Poinsettia, scientifically known as Euphorbia pulcherrima, is a popular indoor plant prized for its colorful bracts and festive appearance. Native to Mexico and Central America, Poinsettias are members of the Euphorbiaceae family and are valued for their ornamental value and cultural significance. Their bright red, pink, or white bracts surround small yellow flowers, creating a striking display that is synonymous with the holiday season. Poinsettias are popular choices for indoor decoration, adding a touch of festive cheer to any setting.",
       "care_detail": "Poinsettias require bright, indirect light and well-draining soil. Water sparingly, allowing the soil to dry out between waterings. Keep the plant away from drafts and provide regular fertilization during the growing season to promote healthy growth and flowering.",
+      "ease_of_care": "Easy",
       "outdoor_or_indoor": "Indoor",
       "origin": "Mexico, Central America",
       "image": "https://www.plantje.nl/wp-content/uploads/2019/12/Poinsettia-Groot-2.jpg"
@@ -266,6 +281,7 @@
       "latin_name": "Bromeliaceae family (Various genera and species)",
       "description": "Bromeliads are a diverse family of tropical plants prized for their colorful foliage and unique growth habits. With over 3,000 species and countless hybrids, bromeliads are found in a wide range of habitats, from rainforests to deserts. Bromeliads are members of the Bromeliaceae family and are valued for their ornamental value and ease of care. Their striking leaves come in a variety of shapes, sizes, and colors, often adorned with bold stripes, spots, or patterns. Bromeliads are popular choices for indoor decoration, adding a touch of exotic beauty to any setting.",
       "care_detail": "Bromeliads require bright, indirect light and well-draining soil or growing medium. Water sparingly, allowing the soil to dry out between waterings. Provide regular fertilization during the growing season to promote healthy growth and flowering.",
+      "ease_of_care": "Easy",
       "outdoor_or_indoor": "Outdoor/Indoor",
       "origin": "Tropical regions of the Americas",
       "image": "https://www.brighterblooms.com/cdn/shop/products/5IN-Evi-Orange-Intenso-Bromeliad-with-Moss-Topping.jpg?v=1666017376&width=1000"
